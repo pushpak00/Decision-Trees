@@ -2,14 +2,14 @@
 
 Decision trees are a popular machine learning algorithm used for both classification and regression tasks. They work by splitting the data into subsets based on the value of input features, resulting in a tree-like structure of decisions.
 
-# What is a Decision Tree?
+## What is a Decision Tree?
 
 A decision tree is a flowchart-like structure where:
 - **Each internal node** represents a "test" or "decision" on an attribute (e.g., whether a customer’s age is greater than 50).
 - **Each branch** represents the outcome of the test (e.g., True or False).
 - **Each leaf node** represents a class label (decision) or a continuous value (in the case of regression).
 
-# Why Use Decision Trees?
+## Why Use Decision Trees?
 
 - **Easy to Understand**: Decision trees mimic human decision-making, making them easy to interpret and understand.
 - **Versatile**: They can handle both numerical and categorical data.
